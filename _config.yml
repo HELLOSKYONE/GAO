@@ -1,9 +1,7 @@
 theme: minima
-title: gao's blog
+title: Gao's blog
 description: Talk about AI, AR and AW!
-
 header_pages:
-  - bio.md
-  
+  - about.md
 minima:
   skin: dark
