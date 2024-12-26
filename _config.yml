@@ -4,3 +4,6 @@ description: Talk about AI, AR and AW!
 
 header_pages:
   - bio.md
+  
+minima:
+  skin: dark
