@@ -1,6 +1,6 @@
 layout: page
-title: "Bio"
-permalink: /bio
+title: "About"
+permalink: /about
 
 ---
 # GAO SHAOFEI
