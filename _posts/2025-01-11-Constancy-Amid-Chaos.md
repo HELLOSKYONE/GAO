@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Constancy Amid Chaos: The Eternal "Second Place""
+title: 'Constancy Amid Chaos: The Eternal "Second Place"'
 date: 2025-01-11
 categories: [Essay]
 ---
