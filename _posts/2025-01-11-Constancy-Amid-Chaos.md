@@ -5,8 +5,6 @@ date: 2025-01-11
 categories: [Essay]
 ---
 
-### Constancy Amid Chaos: The Eternal "Second Place"
-
 In the public’s mind, Jay Chou is seen as a godlike figure, with his musical talent and influence deeply etched in the history of Chinese pop music. However, when you look closely at his career, a surprising fact emerges: he was not a consistent chart-topper. Instead, for a decade, he steadily held the “second place.”
 
 During those ten years:
