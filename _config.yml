@@ -1,6 +1,8 @@
 theme: minima
-skin: solarized-light	
 title: GAO's Cafe
 description: Talk about AI, AR and AW.
 header_pages:
   - about.md
+
+minima:
+skin: solarized-light	
