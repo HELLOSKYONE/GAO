@@ -3,6 +3,7 @@ title: GAO's Cafe
 description: Talk about AI, AR and AW.
 header_pages:
   - about.md
+  - index.md # Ensure the homepage is listed here
 
 languages:
   en: "English"
@@ -13,9 +14,9 @@ defaults:
       path: ""
       lang: "en"
     values:
-      layout: "default"
+      layout: "home" # Ensure the layout is set to "home" for the homepage
   - scope:
       path: "zh"
       lang: "zh"
     values:
-      layout: "default"
+      layout: "home" # Ensure the layout is set to "home" for the homepage
