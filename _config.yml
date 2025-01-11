@@ -1,7 +1,5 @@
 theme: minima
-title: Gao's blog
-description: Talk about AI, AR and AW!
+title: Gao's Cafe
+description: Talk about AI, AR and AW.
 header_pages:
-  - about
-minima:
-  skin: dark
+  - about.md
